@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UIDesign</string>
+    <string name="title">Furama Riverfront Singapore</string>
+    <string name="sub_title">405 Havelock Road, Singapore 169633</string>
+    <string name="amenities">Amenities</string>
+    <string name="facilities">Facilites</string>
+    <string name="fnb"><![CDATA[F&B]]></string>
+    <string name="kidsfamily">Kids/family</string>
+    <string name="wellness">Wellness</string>
+    <string name="by_rate">By Rate</string>
+    <string name="by_room">By Room</string>
+    <string name="name_one">Deluxe Twin</string>
+    <string name="description_one">Twin Single Beds, Cable Tv, Free Wifi</string>
+    <string name="view_rates">View Rates</string>
+</resources>

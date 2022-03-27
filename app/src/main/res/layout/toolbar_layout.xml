@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <ImageView
+
+        android:id="@+id/toolbar_image_call"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:src="@drawable/ic_baseline_arrow_back_24"/>
+
+        <ImageView
+            android:id="@+id/toolbar_image_message"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/chatactive"
+            android:layout_gravity="end"
+            android:layout_marginEnd="20dp"/>
+    <ImageView
+        android:id="@+id/toolbar_image_currency"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/currency"
+        android:layout_marginEnd="20dp"
+        android:layout_gravity="right"/>
+
+    </androidx.appcompat.widget.Toolbar>
+</RelativeLayout>
